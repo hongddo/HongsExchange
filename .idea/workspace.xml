@@ -8,7 +8,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8c5c50fb-9707-41c6-84bb-fa671258aa60" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile_test" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile_test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/test_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/test_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +174,7 @@
       <workItem from="1578878799360" duration="5753000" />
       <workItem from="1578900262125" duration="2343000" />
       <workItem from="1578902676881" duration="2701000" />
-      <workItem from="1578963325758" duration="37070000" />
+      <workItem from="1578963325758" duration="37545000" />
     </task>
     <task id="LOCAL-00001" summary="test2">
       <created>1579149782419</created>
@@ -231,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579235728731</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test7">
+      <created>1579235959772</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579235959772</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +251,8 @@
     <MESSAGE value="test4" />
     <MESSAGE value="test5" />
     <MESSAGE value="test6" />
-    <option name="LAST_COMMIT_MESSAGE" value="test6" />
+    <MESSAGE value="test7" />
+    <option name="LAST_COMMIT_MESSAGE" value="test7" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="181" key="#Notifications" timestamp="1579150446587">
@@ -268,10 +277,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="719" y="328" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579233984881" />
-    <state x="592" y="117" key="CommitChangelistDialog2" timestamp="1579235726961">
+    <state x="592" y="117" key="CommitChangelistDialog2" timestamp="1579235957816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="117" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579235726961" />
+    <state x="592" y="117" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579235957816" />
     <state x="-773" y="390" key="FileChooserDialogImpl" timestamp="1579141082340">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -348,10 +357,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579141126519" />
-    <state x="316" y="283" key="Vcs.Push.Dialog.v2" timestamp="1579235732948">
+    <state x="316" y="283" key="Vcs.Push.Dialog.v2" timestamp="1579235965479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="316" y="283" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579235732948" />
+    <state x="316" y="283" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579235965479" />
     <state x="664" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1578963366563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
