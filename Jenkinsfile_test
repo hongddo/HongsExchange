@@ -1,0 +1,27 @@
+pipeline {
+	agent any
+
+	triggers {
+		pollSCM('* * * * *')
+	}
+
+	stages {
+		stage('Build') {
+			steps {
+				echo '========================1. Build ====================='
+			}
+		}
+		stage('Deploy'){
+			parallel{
+				stage('Deploy App'){
+					steps{
+						echo '====================5.1 Deploy Dev Server========================='
+						sh "cp -R /sorc001/applications/ciserv/jenkins/workspace/HongsExchange /sorc001/applications"
+
+					}
+				}
+
+			}
+		}
+	}
+}
