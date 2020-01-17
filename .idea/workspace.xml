@@ -173,7 +173,7 @@
       <workItem from="1578878799360" duration="5753000" />
       <workItem from="1578900262125" duration="2343000" />
       <workItem from="1578902676881" duration="2701000" />
-      <workItem from="1578963325758" duration="38975000" />
+      <workItem from="1578963325758" duration="39659000" />
     </task>
     <task id="LOCAL-00001" summary="test2">
       <created>1579149782419</created>
@@ -259,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579237771991</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="test11">
+      <created>1579237895982</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579237895982</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,7 +282,8 @@
     <MESSAGE value="test8" />
     <MESSAGE value="test9" />
     <MESSAGE value="test10" />
-    <option name="LAST_COMMIT_MESSAGE" value="test10" />
+    <MESSAGE value="test11" />
+    <option name="LAST_COMMIT_MESSAGE" value="test11" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="181" key="#Notifications" timestamp="1579150446587">
@@ -300,10 +308,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="719" y="328" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579233984881" />
-    <state x="592" y="117" key="CommitChangelistDialog2" timestamp="1579237770235">
+    <state x="592" y="117" key="CommitChangelistDialog2" timestamp="1579237894067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="117" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579237770235" />
+    <state x="592" y="117" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579237894067" />
     <state x="-773" y="390" key="FileChooserDialogImpl" timestamp="1579141082340">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -380,10 +388,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579141126519" />
-    <state x="316" y="283" key="Vcs.Push.Dialog.v2" timestamp="1579237775706">
+    <state x="316" y="283" key="Vcs.Push.Dialog.v2" timestamp="1579237898055">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="316" y="283" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579237775706" />
+    <state x="316" y="283" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579237898055" />
     <state x="664" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1578963366563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
