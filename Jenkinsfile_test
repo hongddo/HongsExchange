@@ -15,7 +15,7 @@ pipeline {
 			parallel{
 				stage('Deploy App'){
 					steps{
-						echo '====================5.1 Deploy Dev Server========================='
+						echo '====================2 Deploy ========================='
 						sh "cp -R /sorc001/applications/ciserv/jenkins/workspace/HongsExchange /sorc001/applications"
 
 					}
