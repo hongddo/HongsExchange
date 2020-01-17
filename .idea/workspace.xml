@@ -8,6 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c5c50fb-9707-41c6-84bb-fa671258aa60" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/test_war_exploded/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/test_war_exploded/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,7 +174,7 @@
       <workItem from="1578878799360" duration="5753000" />
       <workItem from="1578900262125" duration="2343000" />
       <workItem from="1578902676881" duration="2701000" />
-      <workItem from="1578963325758" duration="27857000" />
+      <workItem from="1578963325758" duration="32960000" />
     </task>
     <task id="LOCAL-00001" summary="test2">
       <created>1579149782419</created>
@@ -196,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579150185646</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test3">
+      <created>1579150701940</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579150701940</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +212,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test2" />
+    <MESSAGE value="test3" />
+    <option name="LAST_COMMIT_MESSAGE" value="test3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="181" key="#Notifications" timestamp="1579150446587">
@@ -229,10 +238,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="719" y="328" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578983698728" />
-    <state x="592" y="117" key="CommitChangelistDialog2" timestamp="1579150183343">
+    <state x="592" y="117" key="CommitChangelistDialog2" timestamp="1579150699602">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="117" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579150183343" />
+    <state x="592" y="117" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579150699602" />
     <state x="-773" y="390" key="FileChooserDialogImpl" timestamp="1579141082340">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -309,10 +318,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579141126519" />
-    <state x="316" y="283" key="Vcs.Push.Dialog.v2" timestamp="1579150683415">
+    <state x="316" y="283" key="Vcs.Push.Dialog.v2" timestamp="1579151036831">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="316" y="283" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579150683415" />
+    <state x="316" y="283" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579151036831" />
     <state x="664" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1578963366563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -322,6 +331,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="766" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579150167137" />
+    <state x="339" y="136" key="new project wizard" timestamp="1579221714436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="339" y="136" key="new project wizard/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579221714436" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1578879693969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
