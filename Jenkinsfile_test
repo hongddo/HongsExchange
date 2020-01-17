@@ -22,12 +22,7 @@ pipeline {
 
 					}
 				}
-				stage('Restart Server'){
-				   sh "/engn001/tomcat/9.0/servers/ist_8180/stop.sh"
-				   echo '====================3. Shutdown Server ========================='
-				   sh "/engn001/tomcat/9.0/servers/ist_8180/start.sh"
-				    echo '====================3. Start Server ========================='
-				}
+
 
 			}
 		}
