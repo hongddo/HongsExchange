@@ -27,7 +27,7 @@
       <div id ="myService"> Hongs exchange </div>
       <!--로그인 후 -->
       <div id="myName">
-         <p>안녕하세요 최홍서님~<!!!!!/p>
+         <p>안녕하세요 최홍서님~!!!!!</p>
       <div id ="logoutBox">
        <input type="button" id = "logoutBtn" value="로그아웃"/>
       </div>
