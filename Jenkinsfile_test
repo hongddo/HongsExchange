@@ -16,7 +16,7 @@ pipeline {
 				stage('Deploy App'){
 					steps{
 						echo '====================2 Deploy ========================='
-						sh "cp -R /sorc001/applications/ciserv/jenkins/workspace/HongsExchange /sorc001/applications"
+						sh "cp -R /sorc001/applications/ciserv/jenkins/workspace/HongsExchange_pipeline /sorc001/applications"
 						sh "rm -rf /sorc001/applications/mainWebApp.war"
 						sh "mv /sorc001/applications/HongsExchange /sorc001/applications/mainWebApp.war"
 
