@@ -12,10 +12,10 @@
   <head>
     <title>Hongs exchange</title>
 
-      <link rel="stylesheet" href="css/cssReset.css" />
-      <link rel="stylesheet" href="css/header.css" />
-      <link rel="stylesheet" href="css/index.css" />
-      <link rel="stylesheet" href="css/footer.css" />
+      <link rel="stylesheet" href="./css/cssReset.css" />
+      <link rel="stylesheet" href="./css/header.css" />
+      <link rel="stylesheet" href="./css/index.css" />
+      <link rel="stylesheet" href="./css/footer.css" />
   </head>
   <body>
  <!--로그인 후 -->

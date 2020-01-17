@@ -1,5 +1,5 @@
-#signup{_display:none}
-#introSite{display:none}
+#signup{display:none}
+#introSite{_display:none}
 /* common */
 #siteComment{border:3px solid #26110E;padding:1rem;font-size:2rem;color:#26110E;}
 
